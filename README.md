@@ -29,7 +29,7 @@ Para dar início à aplicação, deve-se seguir os seguintes passos:
     npm test
 ```
 
-   ![](assets\testeUnit.jpeg)
+   ![](assets\testeUnit.jpeg?raw=true "Tests")
 
 # Rotas
 Todas as rotas foram testadas utilizando o framework Insomnia.
