@@ -53,7 +53,7 @@ Todas as rotas foram testadas utilizando o framework Insomnia.
 
 
   ### PUT
-   ![](./assets\put.png?raw=true)
+   ![](./assets/put.png?raw=true)
 
   ### DELETE
    ![](./assets/delete.png?raw=true)
