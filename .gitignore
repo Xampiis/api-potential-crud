@@ -1,0 +1,9 @@
+# dependencies
+backend/node_modules/
+
+# misc
+backend/.env
+backend/.env.test
+
+# testing
+backend/__tests__/coverage
