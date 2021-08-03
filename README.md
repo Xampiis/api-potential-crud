@@ -62,4 +62,4 @@ Todas as rotas foram testadas utilizando o framework Insomnia.
 ## Redes Sociais
 
 - [Linkedin](https://www.linkedin.com/in/bruno-jacomini-b3916a17a/)
-- [Github](https://github.com/Xampiis)
+- [Instagram](https://www.instagram.com/brunoexd/)
