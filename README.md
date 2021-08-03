@@ -29,7 +29,7 @@ Para dar início à aplicação, deve-se seguir os seguintes passos:
     npm test
 ```
 ### TEST
-   ![](assets\testeUnit.jpeg)
+   ![](assets\testeUnit.png)
 
 # Rotas
 Todas as rotas foram testadas utilizando o framework Insomnia.
@@ -43,15 +43,15 @@ Todas as rotas foram testadas utilizando o framework Insomnia.
   # Screenshots do insomnia
 
   ### GET
-   ![GET](assets\get.jpeg)
+   ![GET](assets\get.png)
 
     
   ### POST
-   ![POST](assets\post.jpeg)
+   ![POST](assets\post.png)
 
 
   ### PUT
-   ![PUT](assets\put.jpeg)
+   ![PUT](assets\put.png)
 
   ### DELETE
-   ![DELETE](assets\delete.jpeg)
+   ![DELETE](assets\delete.png)
