@@ -57,3 +57,9 @@ Todas as rotas foram testadas utilizando o framework Insomnia.
 
   ### DELETE
    ![](./assets/delete.png?raw=true)
+
+
+## Redes Sociais
+
+- [Linkedin](https://www.linkedin.com/in/bruno-jacomini-b3916a17a/)
+- [Github](https://github.com/Xampiis)
